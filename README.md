@@ -8,17 +8,17 @@
   </p>
 </div>
 
+![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-title.png?raw=true)
+![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-section.png?raw=true)
+![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-slide.png?raw=true)
+
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Malcolm Wolff
+Malcolm Wolff
 
 Project Link: [https://github.com/MalcolmWolff/STRUCTURED](https://github.com/MalcolmWolff/uw-metropolis-theme)
 
-
-![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-title.png?raw=true)
-![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-section.png?raw=true)
-![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-slide.png?raw=true)
 
