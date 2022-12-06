@@ -1,0 +1,30 @@
+\usetheme[progressbar=frametitle]{metropolis}
+\usepackage{siunitx}
+\usepackage{newtxtext,newtxmath}
+\usepackage{xcolor}
+\usepackage{appendixnumberbeamer}
+\usepackage[scale=2]{ccicons}
+
+% Beamer UW color definitions
+\definecolor{uwpurple}{RGB}{51,0,111}
+\definecolor{uwgold}{RGB}{232,211,62}
+\definecolor{uwmgold}{RGB}{145,123,76}
+\definecolor{uwmgoldlight}{RGB}{232,224,205}
+
+% Beamer UW Color Assignment
+\setbeamercolor{progress bar}{%
+  use=alerted text,
+  fg=uwmgold,
+  bg=uwmgoldlight
+}
+\setbeamercolor{frametitle}{fg=white, bg=uwpurple}
+\setbeamercolor{background canvas}{bg=white}
+\setbeamercolor{alerted text}{fg=uwmgold}
+
+
+% logo of UW
+\titlegraphic{%
+  \begin{picture}(0,0)
+    \put(305,-150){\makebox(0,0)[rt]{\includegraphics[width=1.5cm]{uwtheme/uwlogo.png}}}
+  \end{picture}
+}
