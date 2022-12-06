@@ -8,9 +8,9 @@
   </p>
 </div>
 
-![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-title.png?raw=true)
-![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-section.png?raw=true)
-![](https://github.com/MalcolmWolff/uw-beamer-theme/examples/uw-beamer-slide.png?raw=true)
+![](https://github.com/MalcolmWolff/uw-beamer-theme/tree/main/examples/uw-beamer-title.png?raw=true)
+![](https://github.com/MalcolmWolff/uw-beamer-theme/tree/main/examples/uw-beamer-section.png?raw=true)
+![](https://github.com/MalcolmWolff/uw-beamer-theme/tree/main/examples/uw-beamer-slide.png?raw=true)
 
 
 
