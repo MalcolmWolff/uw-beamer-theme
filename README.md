@@ -19,6 +19,6 @@
 
 Malcolm Wolff
 
-Project Link: [https://github.com/MalcolmWolff/STRUCTURED](https://github.com/MalcolmWolff/uw-metropolis-theme)
+Project Link: [https://github.com/MalcolmWolff/uw-metropolis-theme](https://github.com/MalcolmWolff/uw-metropolis-theme)
 
 
